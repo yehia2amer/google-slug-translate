@@ -1,9 +1,9 @@
 === Google Slug Translate ===
 Contributors: 骑驴觅驴
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5TLSQMETWCUSG&item_name=Donation%20for%20remove%20category%20base&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5TLSQMETWCUSG&item_name=Donation%20for%20google%20slug%20translate&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: slug translate,slug translator,translate,google translate,google translator,seo,url,auto slug
 Requires at least: 3.4
-Tested up to: 3.4
+Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
