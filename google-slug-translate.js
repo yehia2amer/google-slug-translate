@@ -1,5 +1,5 @@
 function donkey_autosave_update_slug(post_id) {
-	jQuery('#editable-post-name').html('翻译中 ...');
+	jQuery('#editable-post-name').html('translated...');
 	jQuery.post(ajaxurl, {
 			action: 'sample-permalink',
 			post_id: post_id,
@@ -13,7 +13,7 @@ function donkey_autosave_update_slug(post_id) {
 				donkey_update_post_name();
 				makeSlugeditClickable();
 			} else {
-				jQuery('#editable-post-name').html('翻译失败，请手动填写。');
+				jQuery('#editable-post-name').html('Translation failed, please fill in manually.');
 			}
 		}
 	);
